@@ -11,8 +11,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **2nd Year B.Tech CSE** student at **Sreenidhi Institute of Science & Technology (SNIST)**, Hyderabad
-- 💡 Currently sharpening my skills in **Java**, **DSA**, **Python**, and **Web Development**
+- 🎓 **3rd Year B.Tech CSE** student at **Sreenidhi Institute of Science & Technology (SNIST)**, Hyderabad
+- 💡 Currently sharpening my skills in **C++**, **DSA**, **Python**, and **Web Development**
 - 🌱 Exploring **Machine Learning / AI** and **SQL / Databases**
 - 🎯 Actively looking for **internship opportunities** to apply my skills in the real world
 - 📍 Based in **Hyderabad, India**
